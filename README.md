@@ -1,4 +1,4 @@
-# Junior Full Stack Web Developer - Python Data Science appassionate! 🚀
+# Junior Full Stack Web Developer - Python Keras Deep Learning and Data Science appassionate! 🚀
 _Nice to meet you! I'm **Andrea** and I'm here to meet new colleagues and work on some coding together! 🌱_
 <br><br>
 
@@ -13,10 +13,13 @@ At first with the help of Chat GPT, then with SoloLearn app.
 One day, one friend talked about Data Camp's courses and i joined them.
 
 # Present days:
-Actually i've done more 300 hours into Python programming and courses and i'm super-focused on Data Science and Machine-Learning!! ⚡⚡
+Actually i've done more 300 hours into Python programming and courses and i'm super-focused on Data Science and Deep Learning!! ⚡⚡
 
 Now i work as a Junior Full Stack Web Developer in the same telecomunications' Company.
 Php, node.js, mysql, fastify, react, html, css are my new friends and even thought Python isn't there, i always take every i learn from work in something to create with Python on my own! 👀
+
+I've also created Telegram Bots and i'm currently into Deep Learning model creations with Python Keras. ⚡
+I'll post here some of my models! ⚡
 
 I hope to meet you soon! 🎉🎉
 
