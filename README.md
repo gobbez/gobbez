@@ -19,6 +19,7 @@ Now i work as a Junior Full Stack Web Developer in the same telecomunications' C
 Php, node.js, mysql, fastify, react, html, css are my new friends and even thought Python isn't there, i always take every i learn from work in something to create with Python on my own! 👀
 
 I've also created Telegram Bots and i'm currently into Deep Learning model creations with Python Keras. ⚡
+I'm working on a Lichess Chess Bot (you can check my repo) with high performance!
 I'll post here some of my models! ⚡
 
 I hope to meet you soon! 🎉🎉
