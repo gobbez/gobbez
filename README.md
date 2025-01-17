@@ -1,4 +1,4 @@
-# Junior Full Stack Web Developer - Python Keras Deep Learning and Data Science appassionate! 🚀
+# Junior Full Stack Web Developer - Python Tensorflow Deep Learning and Data Science appassionate! 🚀
 _Nice to meet you! I'm **Andrea** and I'm here to meet new colleagues and work on some coding together! 🌱_
 <br><br>
 
