@@ -1,34 +1,24 @@
-# Junior Full Stack Web Developer - Python Tensorflow Deep Learning and Data Science appassionate! 🚀
-_Nice to meet you! I'm **Andrea** and I'm here to meet new colleagues and work on some coding together! 🌱_
-<br><br>
+<h1>💻 Web Developer | 📊 Data Analyst | 🤖 AI & Bot Enthusiast</h1>
 
-# High School and Sports:
-In 2013 i finished high school for computer technology, but i didn't like it and i started working as a technical assistant for telecomunications.
-In these years after school i did running, cycling and gym at a very high level and, in order to take track of every workout i had created a big database with Google Sheets.
-Soon i wanted to study those data and i started to make analysis on them, evolving my database in a powerbase of more than 80 columns to monitor almost everything.
+After earning my diploma as an IT Specialist, I spent several years away from programming to pursue high-level sports. <br>
+However, at the end of 2023, I rediscovered my passion for the software world, diving deep into Python. 🐍🔥
 
-# Python, the first love:
-At the end of 2023 i wanted to learn to program and i started with Python.
-At first with the help of Chat GPT, then with SoloLearn app.
-One day, one friend talked about Data Camp's courses and i joined them.
+<h2>🚀 What I Do:</h2>
+<b>Data Analysis & Predictions 📈 – </b> I use Python to analyze data and make predictions in various fields, including sports, finance, and local territories. <br>
+<b>AI & Deep Learning 🤖 – </b> I develop AI models, such as deep learning models for image recognition. <br>
+<b>Bot Development 🤖📲 – </b> I create Telegram chatbots and automation tools for multiple purposes. <br>
+<b>Full-Stack Web Development 🌍 – </b> I work as a Junior Web Developer and i have fun building frontend or fullstack websites!
 
-# Present days:
-Actually i've done more 300 hours into Python programming and courses and i'm super-focused on Data Science and Deep Learning!! ⚡⚡
+<h2>💼 Programming languages that i know</h2>
+🔹🔹🔹 Python 
+🔹🔹 React
+🔹 JavaScript, Php, Html, Css, Sql
 
-Now i work as a Junior Full Stack Web Developer in the same telecomunications' Company.
-Php, node.js, mysql, fastify, react, html, css are my new friends and even thought Python isn't there, i always take every i learn from work in something to create with Python on my own! 👀
+<h2>🏆 How I Improve:</h2>
+🎓 Continuous Learning: I take various online courses and have earned a Python Data Scientist Certificate. <br>
+📊 Kaggle Challenges: I practice data analysis and machine learning on Kaggle. <br>
+🌐 Web Development: I build interactive and responsive websites with React (frontend) and Python (backend). <br>
 
-I've also created Telegram Bots and i'm currently into Deep Learning model creations with Python Keras. ⚡
-I'm working on a Lichess Chess Bot (you can check my repo) with high performance!
-I'll post here some of my models! ⚡
-
-I hope to meet you soon! 🎉🎉
-
-_Andrea_
-https://gobbetti.pythonanywhere.com/
-
-
-<!---
-gobbez/gobbez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2>📌 Let's Connect!</h2>
+<i>Feel free to check out my repositories and projects. I'm always open to collaborations and new challenges!</i><br>
+<i>🚀 "Coding is not just a skill, it's a mindset!"</i>
