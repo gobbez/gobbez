@@ -1,6 +1,6 @@
 <h1>💻 Web Developer | 📊 Data Analyst | 🤖 AI & Bot Enthusiast</h1>
 
-After earning my diploma as an IT Specialist, I spent several years away from programming to pursue high-level sports. <br>
+After earning my diploma as an IT Specialist, I spent several years away from programming to pursue high-level sports and chess tournaments, all while working in the Telecommunications field. <br>
 However, at the end of 2023, I rediscovered my passion for the software world, diving deep into Python. 🐍🔥
 
 <h2>🚀 What I Do:</h2>
