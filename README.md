@@ -48,8 +48,8 @@ After earning my high school diploma as an IT Specialist, I spent several years 
 <ul>
   <li>🔹🔹🔹 Python</li>
   <li>🔹🔹 Html, Sql</li>
-  <li>🔹 Ruby, JavaScript, Php, Css</li>
-  <li>R, Gml, Nim, Flutter, Mojo, Angular</li>
+  <li>🔹 Bash, Git, Css, Ruby, Javascript, Php</li>
+  <li>R, Gml, Powershell, Nim, Flutter, Mojo, Angular</li>
 </ul>
 .. and more to discover!
 
