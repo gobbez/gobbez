@@ -1,4 +1,4 @@
-<h1>Python Developer | Junior Full-Stack Web Developer | Penetration Testing Student | Associate Data Analyst | Deep Learning & Bot Creator</h1>
+<h1>Python Developer | Junior Full-Stack Web Developer | Browser Games Creator | Penetration Testing Student | Associate Data Analyst | Deep Learning & Bot Creator</h1>
 
 After earning my high school diploma as an IT Specialist, I spent several years away from programming to focus on high-level sports and chess tournaments, while working in the telecommunications field. <br>
 <li>
@@ -20,11 +20,11 @@ After earning my high school diploma as an IT Specialist, I spent several years 
 <h2>🚀 What I Do:</h2>
 <ul>
   <li><b>Python Django Backend Development 🐍</b>: I build APIs and backend services using Django for various applications.</li>
-  <li><b>Full-Stack Web Development 🌍</b>: I occasionally build websites to maintain and expand my full-stack skills.</li>
+  <li><b>Full-Stack Web Development 🌍</b>: I build websites both fully frontend, using Vue, and fullstack with Vue+Python.</li>
+  <li><b>Browser Games Creation🔥</b>: I use Game Maker (and its Game Maker Language) to fulfill the creativity i need in order to create online browser games.</li>
   <li><b>Bot Development 🤖</b>: I create Telegram bots and automation tools for multiple purposes.</li>
-  <li><b>Penetration Testing & CTFs 🗡️</b>: I study penetration testing and participate in CTF challenges to improve my Red Team skills for future projects.</li>
+  <li><b>Penetration Testing & CTFs 🗡️</b>: I had studied penetration testing and participated in CTF challenges to improve my Red Team skills.</li>
   <li><b>Data Science 📈 & Deep Learning 🤖</b>: I apply Data Science and Deep Learning to analyze data and make predictions in areas like sports, finance, and local insights.</li>
-  <li><b>Other Programming Languages Exploration 🔥</b>: I search and study other programming languages to fulfill the creativity i need in order to create other projects.</li>
 </ul>
 
 <br>
@@ -35,30 +35,15 @@ After earning my high school diploma as an IT Specialist, I spent several years 
 </ul>
 
 <br>
-<h2>🏆 How I Learn & Grow:</h2>
-<ul>
-  <li>🎓 Continuous Learning: I take online courses, search new programming languages to try, read books on programming, penetration testing, and AI, and work on new side projects.</li>
-  <li>🌐 Web Development: I build interactive and responsive web apps using both frontend and backend programming languages.</li>
-  <li>🕵️‍♂️ Capture The Flag (CTF): I practice ethical hacking by participating in CTF challenges on dedicated platforms to strengthen my penetration testing and red team skills.</li>
-  <li>📊 Kaggle Challenges: I participate in data science competitions and notebooks to sharpen my analysis skills.</li>
-</ul>
-
-<br>
 <h2>💻 Programming Languages I know or I've studied:</h2>
 <ul>
-  <li>🔹🔹🔹 Python</li>
-  <li>🔹🔹 Html, Sql</li>
-  <li>🔹 Bash, Git, Css, Ruby, Javascript, Php</li>
-  <li>R, Gml, Powershell, Nim, Flutter, Mojo, Angular</li>
+  <li>🔹🔹🔹🔹 Python</li>
+  <li>🔹🔹🔹 Vue</li>
+  <li>🔹🔹 Html, React, Sql, Css</li>
+  <li>🔹 GML, Bash, Git, Ruby, Javascript, Php</li>
+  <li>Quasar, R, Powershell, Nim, Flutter, Mojo, Angular</li>
 </ul>
 .. and more to discover!
-
-<h2>💻 Frameworks:</h2>
-<ul>
-  <li>🔹🔹 React, Django, Chakra</li>
-  <li>🔹 Sinatra, Bootstrap, Shadcn</li>
-  <li>Quasar, Laravel, Vue.js, Tailwind</li>
-</ul>
 
 <h2>💻 Tools I Use:</h2>
 <ul>
