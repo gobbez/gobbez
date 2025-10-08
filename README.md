@@ -48,7 +48,7 @@ After earning my high school diploma as an IT Specialist, I spent several years 
 <h2>💻 Tools I Use:</h2>
 <ul>
   <li>🔹🔹🔹 Google Sheets</li> 
-  <li>🔹🔹 Zap, Metasploit, Nmap, Git, Mercurial, Excel</li>
+  <li>🔹🔹 Game Maker, Zap, Metasploit, Nmap, Git, Mercurial, Excel</li>
   <li>🔹 Wireshark, Hydra, Postman</li>
   <li>Nessus, Docker</li>
 </ul>
